@@ -26,3 +26,5 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 In this project I used react-native-reanimated-carousel liberary for carousel effect
+
+There is a seperate Screenshoot folder under assets which store the screenshoot of sliders
